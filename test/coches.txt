@@ -1,0 +1,4 @@
+ID: 2 Matricula: 2837LLC Marca: LEXUS Modelo: UX 300H Color: BLANCO PERLADO
+ID: 4 Matricula: 0283DSW Marca: BMW Modelo: SERIE 3 Color: GRIS PLATA
+ID: 5 Matricula: 7228BVP Marca: DACIA Modelo: SANDERO Color: BEIGE
+ID: 6 Matricula: 9276CRN Marca: HONDA Modelo: CIVIC Color: VERDE
